@@ -1,0 +1,3 @@
+Instructions to run the code
+Step 1: Compile SortList.java and ListNode.java.
+Step 2: Run SortList.class

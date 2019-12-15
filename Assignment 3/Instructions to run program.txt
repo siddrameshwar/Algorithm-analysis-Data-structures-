@@ -1,0 +1,2 @@
+Step 1-Compile Assignment3.java
+Step 2-Run Assignment3.class
